@@ -1,0 +1,3 @@
+function component(renderFunc) {
+    return () => {}
+}

@@ -1,0 +1,15 @@
+{
+  "name": "element-f",
+  "version": "1.0.0",
+  "description": "element-f is a functional UI system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DOM",
+    "function"
+  ],
+  "author": "Zhifei Fang",
+  "license": "MIT"
+}
